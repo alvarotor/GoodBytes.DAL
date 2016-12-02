@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodBytes.DAL", "GoodBytes.DAL.csproj", "{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Community|Any CPU = Community|Any CPU
+		CommunityTest|Any CPU = CommunityTest|Any CPU
+		Criticas|Any CPU = Criticas|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		FootballChildren|Any CPU = FootballChildren|Any CPU
+		Interesart|Any CPU = Interesart|Any CPU
+		ProgramandoEn|Any CPU = ProgramandoEn|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Technologia|Any CPU = Technologia|Any CPU
+		TravelLibre|Any CPU = TravelLibre|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.Community|Any CPU.ActiveCfg = Community|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.Community|Any CPU.Build.0 = Community|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.CommunityTest|Any CPU.ActiveCfg = CommunityTest|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.CommunityTest|Any CPU.Build.0 = CommunityTest|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.Criticas|Any CPU.ActiveCfg = Criticas|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.Criticas|Any CPU.Build.0 = Criticas|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.FootballChildren|Any CPU.ActiveCfg = FootballChildren|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.FootballChildren|Any CPU.Build.0 = FootballChildren|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.Interesart|Any CPU.ActiveCfg = Interesart|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.Interesart|Any CPU.Build.0 = Interesart|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.ProgramandoEn|Any CPU.ActiveCfg = ProgramandoEn|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.ProgramandoEn|Any CPU.Build.0 = ProgramandoEn|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.Technologia|Any CPU.ActiveCfg = Technologia|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.Technologia|Any CPU.Build.0 = Technologia|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.TravelLibre|Any CPU.ActiveCfg = TravelLibre|Any CPU
+		{DBF95D7B-C562-49DD-9CE5-82E21F2846B2}.TravelLibre|Any CPU.Build.0 = TravelLibre|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
